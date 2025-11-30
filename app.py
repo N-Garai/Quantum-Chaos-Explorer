@@ -3,7 +3,7 @@ Quantum-Chaos-Explorer: Enhanced Interactive Web Application
 ============================================================
 Now supports USER-DEFINED FRACTAL EQUATIONS and predefined fractals!
 
-Author: Senior Quantum Engineer
+Author: N-Garai
 Date: November 2025
 """
 

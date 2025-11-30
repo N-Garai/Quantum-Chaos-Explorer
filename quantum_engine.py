@@ -7,7 +7,7 @@ distributions across 2D coordinate spaces.
 
 BUG FIX: All fractal functions now handle NumPy types correctly
 
-Author: Senior Quantum Engineer
+Author: N-Garai
 Date: November 2025
 """
 
