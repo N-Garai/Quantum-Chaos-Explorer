@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Qiskit](https://img.shields.io/badge/qiskit-2.0+-purple.svg)
+![Live Demo](https://quantum-chaos-explorer.streamlit.app/)
 
 An interactive web application that combines quantum computing with fractal mathematics to create stunning visualizations. Explore the intersection of quantum mechanics and chaos theory through 15+ different fractal types, each modulated by quantum circuit measurements.
 
